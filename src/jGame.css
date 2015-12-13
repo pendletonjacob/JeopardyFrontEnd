@@ -1,0 +1,65 @@
+
+
+.button{
+    -fx-text-fill: #ffff00;
+    -fx-border-color: black;
+    
+    -fx-padding: 5;
+    -fx-background-color: blue;
+    -fx-font: 16px "Helvetica";
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-spacing: 5;
+    -fx-font-weight: bold;
+    -fx-width: 60px;
+}
+
+.scene {
+	-fx-background-color: black;
+}
+
+.label .content {
+	-fx-background-color: blue;
+}
+
+.label {
+	-fx-border: solid;
+	-fx-text-fill: #ffff00;
+    -fx-border-color: black;
+    -fx-border-width: 2px 2px 2px 2px;
+    
+
+    -fx-background-color: blue;
+    -fx-font: 16px "Helvetica";
+    -fx-font-weight: bolder;
+    -fx-width: 20px;
+}
+
+.text-area {
+	-fx-background-color: black;
+	-fx-border-color: black;
+	-fx-border: solid;
+	-fx-text-alignment: center;
+	
+}
+
+.score .content {
+	-fx-background-color: blue;
+	-fx-padding:15 5 5 5;
+}
+
+.score {
+	-fx-border: solid;
+	-fx-text-fill: #ffff00;
+	-fx-font: 16px "Typewriter";
+	-fx-font-weight: bold;
+	
+}
+
+.text-field {
+   
+    
+   
+}
+
+
+
